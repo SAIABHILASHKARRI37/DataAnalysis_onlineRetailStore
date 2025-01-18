@@ -7,7 +7,7 @@ The objective of this project is to analyze data from an online retail store to 
 
 ## Dataset  
 
-https://github.com/SAIABHILASHKARRI37/DataAnalysis_onlineRetailStore/blob/main/Online%20Retail.xlsx
+<a href="https://github.com/SAIABHILASHKARRI37/DataAnalysis_onlineRetailStore/blob/main/Online%20Retail.xlsx">dataset</a>
 ## Process  
 1. **Data Cleaning:**  
    - Removed null values from the dataset.  
@@ -31,7 +31,7 @@ https://github.com/SAIABHILASHKARRI37/DataAnalysis_onlineRetailStore/blob/main/O
 
 4. **Countries Generating Revenue (Map Visualization):**  
    Visualized the countries generating revenue using geographical maps to provide clear insights.
-- Dashboard 
+- Dashboard <a href="https://github.com/SAIABHILASHKARRI37/DataAnalysis_onlineRetailStore/blob/main/ForagePro1%20(1).pbix">Dashboard</a>
 
 ## Conclusion  
 This project provided valuable insights for the online retail store, including:  
