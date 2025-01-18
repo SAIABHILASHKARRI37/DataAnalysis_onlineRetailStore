@@ -7,7 +7,7 @@ The objective of this project is to analyze data from an online retail store to 
 
 ## Dataset  
 
-
+https://github.com/SAIABHILASHKARRI37/DataAnalysis_onlineRetailStore/blob/main/Online%20Retail.xlsx
 ## Process  
 1. **Data Cleaning:**  
    - Removed null values from the dataset.  
@@ -31,6 +31,7 @@ The objective of this project is to analyze data from an online retail store to 
 
 4. **Countries Generating Revenue (Map Visualization):**  
    Visualized the countries generating revenue using geographical maps to provide clear insights.
+- Dashboard 
 
 ## Conclusion  
 This project provided valuable insights for the online retail store, including:  
